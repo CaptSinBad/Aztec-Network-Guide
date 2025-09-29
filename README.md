@@ -24,7 +24,12 @@ Sequencer nodes are eligible for a specific role on Discord as recognition for t
 > Note: Prover nodes require data-center level resources. For most users, including this guide, running a Prover is unnecessary.
 
 ---
+VPS Users: can get started via a VPS with 4 cores CPU, 8GB RAM! [Purchase here](https://my.racknerd.com/aff.php?aff=13418)
 
+Or for my brokies you can use google cloud free tier [here](https://cloud.google.com/free?hl=en) 
+after signing up go to compute engine > VM instance > e2-standard-4 (4 vCPU, 2 core, 16 GB memory) > 
+<img width="1302" height="581" alt="image" src="https://github.com/user-attachments/assets/58acee17-5d20-466a-bf73-4d3b2299b23b" />
+NOTE THAT GOOGLE BLOCKS ANY FREE TIER VM THAT IS IS DOING CRYPTO RELATED STUFF ~3 days so you have to do asap and pray to get the role and then boom out
 
 ```
 # Aztec Node Setup Guide
